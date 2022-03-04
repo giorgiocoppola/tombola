@@ -1,0 +1,48 @@
+
+h1 {
+    text-align:center;
+    color:red;
+    font-size:80px;
+
+}
+
+.block {
+    border: 1px solid rgb(233, 237, 21);
+    width:800px;
+    height: 570px;
+    margin-left:210px;
+    background-color:rgb(233, 237, 21)
+}
+.container {
+    
+    display:flex;
+    width:750px;
+    height:40px;
+    margin-left:18px;
+    margin-top:20px;
+}
+
+.botton {
+    border:1px solid green;
+    font-size:30px;
+    width:40px;
+    height: 40px;
+    border-radius: 30px;
+    position:relative;
+    left:70px;
+    text-align:center;
+    background-color:green;
+    color:white;
+    margin-left:20px;
+
+}
+
+.botton:hover {
+    background-color:red;
+    border-color:red;
+}
+
+a {
+    color:white;
+    text-decoration: none;
+}
