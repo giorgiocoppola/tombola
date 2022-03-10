@@ -8,11 +8,11 @@ h1 {
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size:100px;
     text-align: center;
-    color: rgb(230, 131, 18);
+    color: rgba(235, 32, 32, 0.945);
   
 }
 
-.italia {
+.sangue {
     margin-left:225px;
     margin-top:40px;
 }
